@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://your-solution-url.com)
-- Live Site URL: [Live Link](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/prthmh/interactive_rating_comp_fm)
+- Live Site URL: [Live Link](https://ratingcomp-frontend-mentor-ch.netlify.app/)
 
 ## My process
 
